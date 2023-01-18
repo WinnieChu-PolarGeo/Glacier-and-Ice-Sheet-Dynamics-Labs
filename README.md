@@ -12,4 +12,4 @@ License: [BSD-3-Clause](https://github.com/OGGM/oggm-edu-notebooks/blob/master/L
 
 ![img](http://edu.oggm.org/en/latest/_images/oggm.gif)
 
-https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/wc2421/oggm-edu-notebooks/
+https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=https://github.com/wc2421/oggm-edu-notebooks
