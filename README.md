@@ -4,7 +4,7 @@ In this repository, we adapt and create lab exercises based on materials develop
 
 
 
-## To use these notebooks, click on the following link
+## To use these notebooks, click on the following link:
 
 https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-pull?repo=https://github.com/wc2421/Glacier-and-Ice-Sheet-Dynamics-Labs
 
