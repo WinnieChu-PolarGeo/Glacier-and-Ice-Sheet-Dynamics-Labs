@@ -1,6 +1,8 @@
 # Georgia Tech EAS Glacier and Ice Sheet Dynamics Labs 
 
-In this repository, we adapt and create lab exercises based on materials developed by [OGGM-Edu](https://edu.oggm.org) [(tutorials here)](https://github.com/OGGM/oggm-edu-notebooks) to examine ice dynamics in an OGGM / MyBinder environment.
+In this repository, we adapt and create lab exercises based on materials developed by [OGGM-Edu](https://edu.oggm.org) [(tutorials here)]([https://oggm.org/tutorials/stable/notebooks/welcome.html]) to examine ice dynamics in an OGGM / MyBinder environment.
+
+
 
 ## To use these notebooks, click on the following link
 
