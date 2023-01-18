@@ -11,3 +11,5 @@ License: [BSD-3-Clause](https://github.com/OGGM/oggm-edu-notebooks/blob/master/L
 **This repository contains the notebooks. For the website, visit https://github.com/OGGM/oggm-edu**
 
 ![img](http://edu.oggm.org/en/latest/_images/oggm.gif)
+
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/wc2421/oggm-edu-notebooks/
